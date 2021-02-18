@@ -63,19 +63,7 @@ from ubotindo.modules.helper_funcs.alternate import typing_action
 
 
 PM_START_TEXT = f"""
-Hey there! my name is *{dispatcher.bot.first_name}*.
-Any questions on how to use me? use /help
-
-Join Our [Group](https://t.me/userbotindo) If You wanna Report Issue 🙂
-
-I'm here to make your group management fun and easy!
-I have lots of handy features ☺️ such as :
-
-• flood control.         • Note'S keeping system.
-• Warning System.   • Predetermined Filters.
-
-*Managed With ❤️ By :* [UserbotIndo Team](https://t.me/userbotindo)
-
+HALO ANJIM
 Wanna Add me to your Group? Just click the button below!
 """
 
